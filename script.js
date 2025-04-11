@@ -16,7 +16,7 @@ function flipCard() {
 
     if (!isTimerStarted) {
         startTimer(); // inicia o timer na primeira virada de carta
-        isTimerStarted = true; // marca que o timer foi iniciado
+        isTimerStarted = true;
     }
 
     if (!hasFlippedCard) {
