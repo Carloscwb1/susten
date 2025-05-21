@@ -37,6 +37,7 @@ function checkForMatch() {
         return;
     }
     unflipCards();
+    
 }
 
 //Função que desabilita as cartas
